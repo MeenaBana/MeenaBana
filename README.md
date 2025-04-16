@@ -7,39 +7,44 @@ Green Energy Technology professional passionate about sustainable solutions.
 - 🔬 Expertise in energy optimization, renewable system modeling, REST APIs, and OPC UA integrations 
 - 🤝 Always eager to collaborate on data and energy technologies for a sustainable future
 
-## 🛠️ Tech Stack
-- **Languages:** 
-  - Python (pandas, numpy, matplotlib, REST API integration)
-  - SQL (PostgreSQL, data querying and analysis)
-  - R (statistical analysis, web scraping with RSelenium)
+## 🛠️ Tech Stack Understanding
+- **Programming Languages:** 
+
+```
+Python      ████████░░   8.0/10
+SQL         ███████▌░░   7.5/10 
+MATLAB      ████▌░░░░░   4.5/10 
+R           ████░░░░░░   4.0/10
+```
   
-- **Tools:** 
-  
-  - Git (version control)
-  - BigQuery (data warehousing and analytics)
-  - Grafana (data visualization and monitoring)
-  - Bold BI & Bold Reports (business intelligence dashboards)
-  - SSMS (SQL Server Management Studio)
-  - SSRS (SQL Server Reporting Services)
-  - Git & GitHub Actions (CI/CD and automation)
-  - Postman (API testing)
-  - k9s (Kubernetes CLI)
-  - ngrok (secure tunneling)
-  - SimaPro (life cycle assessment)
-  - SAM (System Advisor Model for solar PV modeling)
-  - RETScreen (feasibility studies for wind projects)
+- **Cloud & DevOps Tools:** 
+```
+Git/GitHub   █████████▌   9.5/10
+Webhooks     ███████▌░░   7.5/10
+GCP          ███████░░░   7.0/10
+Azure        ██████░░░░   6.0/10
+ArgoCD       █████▌░░░░   5.5/10
+Docker       █████░░░░░   5.0/10
+Kubernetes   ████▌░░░░░   4.5/10
+```
   
   
-- **Techniques:**
-  - API integration (OPC UA, ModelIndex, Monday.com)
-  - Energy forecasting & PV analytics (using Python open-source libraries)
-  - Time series analysis (renewable production)
-  - Cloud platforms (GCP, Azure)
-  - Cloud services (Cloud Functions, Cloud Run, ArgoCD)
-  - DevOps metrics (integrated DORA FourKeys metrics from GitHub, JIRA, ArgoCD, ADO)
-  - ETL pipelines (cloud functions, webhooks)
-  - K-means clustering (food sustainability analysis)
-  - Linear optimization (resource maximization)
+- **Data & Analytics:**
+```
+API Integration █████████░   9.0/10
+ETL Pipelines   ████████▌░   8.5/10   
+BigQuery        ████████░░   8.0/10
+Grafana         ███████▌░░   7.5/10
+Bold BI/Reports ███████░░░   7.0/10
+```
+- **Energy Technologies:**
+```
+Solar Energy                       ████████▌░   8.5/10
+PV Analytics (Python Libraries)    ███████▌░░   7.5/10
+Energy Forecasting                 ███████▌░░   7.5/10
+SAM                                ████░░░░░░   4.0/10
+RETScreen                          ████░░░░░░   4.0/10
+```
 
   ## 📊 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeenaBana&show_icons=true&theme=radical)
