@@ -84,7 +84,7 @@ SimaPro               ████▌░░░░░   4.5/10
 ### 🧰 Developer Tools
 - [python-pytest-coverage-commands](https://github.com/MeenaBana/python-pytest-coverage-commands) - Guide for Python test coverage using pytest.
 - [pre-commit-checks-example](https://github.com/MeenaBana/pre-commit-checks-example) - Set up pre-commit hooks with GitHub Actions.
-- [pyenv-setup-windows-wsl](https://github.com/MeenaBana/pyenv-setup-windows-wsl) - Step-by-step guide to configure pyenv on Windows and WSL.
+- [pyenv-cross-platform-setup-guide](https://gist.github.com/MeenaBana/b42e88d88b241cf65432fdb5221ad09b) - Step-by-step guide to configure pyenv on Windows and WSL.
 - [gcp-connect-deploy-guide](https://github.com/MeenaBana/gcp-connect-deploy-guide) - Instructions for connecting and deploying projects on GCP.
 
 ---
